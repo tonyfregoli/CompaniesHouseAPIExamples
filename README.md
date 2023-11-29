@@ -1,5 +1,5 @@
 # Companies House API Examples
-_Notes on using the Companies House API in your Python scripts_
+_Notes on using the Companies House API in your Python script._
 
 ## Filing history example
 How to collect the filing history of a given company for a selected category and save it to a CSV file.  
